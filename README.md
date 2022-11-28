@@ -1,2 +1,6 @@
 # Nirvana
-Web Application for booking and interacting with a psychologist – named as “Nirvana![image](https://user-images.githubusercontent.com/72346276/204271199-5176cbad-eae9-4166-8803-cd7b8acf1aa0.png)
+Web Application for booking and interacting with a psychologist – named as “Nirvana"
+
+Nirvana is an application whereby a person can book a psychologist online and go through some assessments that determines his/her psychological status. Here we focus on booking, assessing, and chatting with a psychologist.
+
+
